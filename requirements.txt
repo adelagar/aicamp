@@ -1,0 +1,18 @@
+Access to GitHub https://github.com
+
+Use of Code Spaces on GitHub
+
+The use of OpenAi-4o-mini model from https://github.com/marketplace
+
+Install the following packages:
+    pip install streamlit
+    pip install openai
+
+streamlit-1.46.0 (Current versions as of writing this application)
+openai-1.91.0 (Current versions as of writing this application)
+
+Running the application on Github code spaces run the following command in the terminal:
+    streamlit run app.py
+
+A pop up window will appear prompting you to open a browser. Click on it.
+
